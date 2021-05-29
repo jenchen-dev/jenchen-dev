@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Jean.
 ###### I’m enthusiastic about learning new things and programming languages
 
-- 👀 I’m a graduate from business administration who want to be a **web developer**
+- 👀 I’m a graduate from business administration who want to be a **developer**
 - 🌱 I’m currently learning **how to write Python and HTML/CSS/Javascript**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jen-chen-4b512a18b/), jeanchen0613@gmail.com
 
